@@ -1,11 +1,11 @@
-# Titanic – Análise de Dados (Python Puro)
+# Titanic – Análise de Dados
 
 ## 🎯 Objetivo
 Este projeto tem como propósito praticar **lógica de programação em Python**, trabalhando diretamente com arquivos CSV sem o uso de bibliotecas externas como Pandas ou NumPy.  
 O desafio principal foi calcular a **média de idade dos passageiros do Titanic**.
 
 ## 🛠️ Ferramentas
-- **Python 3** (sem bibliotecas externas)  
+- **Python 3**  
 - Manipulação de arquivos CSV nativa
 
 ## 📂 Estrutura dos Arquivos
