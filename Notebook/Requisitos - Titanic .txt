@@ -1,0 +1,10 @@
+Tratando Titanic
+
+Objetivo
+Tirar a média de idade
+
+Ferramenta
+Python puro.
+
+Por que não usar bibliotecas? 
+Tornar as coisas um pouco mais interessante
